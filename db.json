@@ -1,0 +1,114 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers: Endgame",
+      "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY679_.jpg",
+      "language": "English",
+      "rating": 8.4,
+      "description": "The Avengers assemble to reverse Thanos' actions.",
+      "genre": "Action",
+      "cast": "Robert Downey Jr., Chris Evans",
+      "releaseDate": "2019-04-26"
+    },
+    {
+      "id": 2,
+      "title": "Pushpa",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/25/Pushpa_-_The_Rise.jpg",
+      "language": "Telugu",
+      "rating": 7.6,
+      "description": "A laborer rises in the red sandalwood smuggling world.",
+      "genre": "Action",
+      "cast": "Allu Arjun, Rashmika Mandanna",
+      "releaseDate": "2021-12-17"
+    },
+    {
+      "id": 3,
+      "title": "KGF Chapter 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/KGF_Chapter_2.jpg",
+      "language": "Kannada",
+      "rating": 8.3,
+      "description": "Rocky becomes the king of the KGF gold mine.",
+      "genre": "Action",
+      "cast": "Yash, Sanjay Dutt",
+      "releaseDate": "2022-04-14"
+    },
+    {
+      "id": 4,
+      "title": "Baahubali 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7e/Baahubali_the_Conclusion.jpg",
+      "language": "Telugu",
+      "rating": 8.2,
+      "description": "Mahendra Baahubali learns about his royal heritage.",
+      "genre": "Action",
+      "cast": "Prabhas, Rana Daggubati",
+      "releaseDate": "2017-04-28"
+    },
+    {
+      "id": 5,
+      "title": "Jawan",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg",
+      "language": "Hindi",
+      "rating": 7.4,
+      "description": "A man fights against corruption for justice.",
+      "genre": "Action",
+      "cast": "Shah Rukh Khan, Nayanthara",
+      "releaseDate": "2023-09-07"
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man: No Way Home",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+      "language": "English",
+      "rating": 8.2,
+      "description": "Spider-Man seeks Doctor Strange's help after his identity is revealed.",
+      "genre": "Action",
+      "cast": "Tom Holland, Zendaya",
+      "releaseDate": "2021-12-17"
+    },
+    {
+      "id": 7,
+      "title": "Avatar",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg",
+      "language": "English",
+      "rating": 7.9,
+      "description": "A marine is sent to Pandora on a unique mission.",
+      "genre": "Sci-Fi",
+      "cast": "Sam Worthington, Zoe Saldana",
+      "releaseDate": "2009-12-18"
+    },
+    {
+      "id": 8,
+      "title": "RRR",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+      "language": "Telugu",
+      "rating": 8.0,
+      "description": "Two legendary revolutionaries fight for freedom.",
+      "genre": "Action",
+      "cast": "Ram Charan, N. T. Rama Rao Jr.",
+      "releaseDate": "2022-03-25"
+    },
+    {
+      "id": 9,
+      "title": "Leo",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Leo_%282023_Indian_film%29.jpg",
+      "language": "Tamil",
+      "rating": 7.3,
+      "description": "A café owner gets pulled into the world of crime.",
+      "genre": "Action",
+      "cast": "Vijay, Trisha Krishnan",
+      "releaseDate": "2023-10-19"
+    },
+    {
+      "id": 10,
+      "title": "Interstellar",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+      "language": "English",
+      "rating": 8.7,
+      "description": "A team of explorers travel through a wormhole in space.",
+      "genre": "Sci-Fi",
+      "cast": "Matthew McConaughey, Anne Hathaway",
+      "releaseDate": "2014-11-07"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers: Endgame",
+      "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY679_.jpg",
+      "language": "English",
+      "rating": 8.4,
+      "description": "The Avengers assemble once more to reverse Thanos' actions.",
+      "genre": "Action",
+      "cast": "Robert Downey Jr., Chris Evans",
+      "releaseDate": "2019-04-26"
+    },
+    {
+      "id": 2,
+      "title": "Pushpa",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/25/Pushpa_-_The_Rise.jpg",
+      "language": "Telugu",
+      "rating": 7.6,
+      "description": "A laborer rises in the red sandalwood smuggling world.",
+      "genre": "Action",
+      "cast": "Allu Arjun, Rashmika Mandanna",
+      "releaseDate": "2021-12-17"
+    },
+    {
+      "id": 3,
+      "title": "KGF Chapter 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/KGF_Chapter_2.jpg",
+      "language": "Kannada",
+      "rating": 8.3,
+      "description": "Rocky becomes the king of the KGF gold mine.",
+      "genre": "Action",
+      "cast": "Yash, Sanjay Dutt",
+      "releaseDate": "2022-04-14"
+    },
+    {
+      "id": 4,
+      "title": "Bahubali",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7e/Baahubali_the_Conclusion.jpg",
+      "language": "Telugu",
+      "rating": 8.2,
+      "description": "Mahendra Baahubali learns about his royal heritage.",
+      "genre": "Action",
+      "cast": "Prabhas, Rana Daggubati",
+      "releaseDate": "2017-04-28"
+    },
+    {
+      "id": 5,
+      "title": "Jawan",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg",
+      "language": "Hindi",
+      "rating": 7.4,
+      "description": "A man fights against corruption for justice.",
+      "genre": "Action",
+      "cast": "Shah Rukh Khan, Nayanthara",
+      "releaseDate": "2023-09-07"
+    }
+  ]
+}
